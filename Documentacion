@@ -1,0 +1,5 @@
+Se descarga el repositorio de interes
+Se crea un repositorio propio llamado "FilesRoom"
+Se crea un branch llamado "El mejor" y en esta un archivo C++
+Con fin de visualizar como editar un archivo, se edita el documento "secuencia" desde el pc y se sube al propio repositorio
+Al darse un cambio en el repositorio original se debe realizar la clonacion nuevamente y subir el nuevo archivo.
